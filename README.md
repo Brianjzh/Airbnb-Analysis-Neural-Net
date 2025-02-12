@@ -75,10 +75,3 @@ This project presents a **data-driven approach** to predicting Airbnb listing pr
 ✅ **Airbnb hosts can optimize pricing strategies by incorporating machine learning models.**  
 
 ---
-
-## **Setup & Installation**
-### **Prerequisites**
-- Install required R packages:
-  ```r
-  install.packages(c("tidyverse", "GGally", "caret", "neuralnet", "dplyr", 
-                     "fastDummies", "sigmoid"))
