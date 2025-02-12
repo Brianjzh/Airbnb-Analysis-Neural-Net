@@ -64,7 +64,7 @@ This project presents a **data-driven approach** to predicting Airbnb listing pr
 ## **Key Visualization**
 
 ### **Caret vs. Neural Network**
-![Predictions](images/PredictedVsActual.png)
+![Predictions](Comparison.png)
 
 ---
 
